@@ -952,7 +952,7 @@ NewTV炫舞未来,http://221.179.217.76:443/PLTV/88888888/224/3221226248/1.m3u8#
 韩国,#genre#
 韩国_KBS1,http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 韩国_KBS2,http://ye23.vip/z7z8/2021/kbs2020.php?id=2
-韩国_KBS WORLD,http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8#http://ye23.vip/z7z8/2021/kbs2020.php?id=3
+韩国_KBS_WORLD,http://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8#http://ye23.vip/z7z8/2021/kbs2020.php?id=3
 韩国_职业广播jobplustv,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩国_SBS清州CJBSBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 韩国_SBS大田TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
@@ -974,35 +974,35 @@ NewTV炫舞未来,http://221.179.217.76:443/PLTV/88888888/224/3221226248/1.m3u8#
 韩国_BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 美国,#genre#
 美国_MovieSphere,http://moviesphere-plex.amagi.tv/playlist.m3u8#http://moviesphere-samsung-samsungus.amagi.tv/playlist720p.m3u8
-美国_The Movie Hub,http://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8
-美国_Redbox 1 Spotlight聚光灯,http://spotlight-redbox.amagi.tv/playlist.m3u8#http://spotlight-vizio.amagi.tv/playlist.m3u8
-美国_Redbox 2 Comedy戏剧,http://comedy-redbox.amagi.tv/playlist.m3u8
-美国_Redbox 3 Rush,http://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+美国_TheMovieHub,http://dje6yassknq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MovieHub2-prod/playlist.m3u8
+美国_Redbox1Spotlight聚光灯,http://spotlight-redbox.amagi.tv/playlist.m3u8#http://spotlight-vizio.amagi.tv/playlist.m3u8
+美国_Redbox2Comedy戏剧,http://comedy-redbox.amagi.tv/playlist.m3u8
+美国_Redbox3Rush,http://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 美国_CNN,http://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8#http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8#http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-美国_ABC TV,http://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
-美国_ABC 2 Atlanta GA (WSB-TV),http://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
+美国_ABCTV,http://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+美国_ABC2AtlantaGA(WSB-TV),http://d2rwx6gwduugne.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10010_183ec1c7-4183-4661-803b-3ed282ffb625_LE/in/cmg-wsbtvnow-hls-v3/live.m3u8
 美国_NBCNews,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8#http://nbcnews1.akamaized.net/hls/live/723422/nbc-news0410015210-ua/NBCNEWS1_VIDEO_1_4064000.m3u8
 美国_GlobalNews,http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 美国_FoxNewsNow,http://fox-foxnewsNow-samsungus.amagi.tv/playlist720p.m3u8
 美国_OAN,http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 美国_VICE,http://d2do1g43aq7264.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Vice-prod/playlist.m3u8
-美国_Boston 25 News (WFXT),http://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
+美国_Boston25News(WFXT),http://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 美国_Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8#http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8#http://newsmax-samsungus.amagi.tv/playlist.m3u8#http://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-newsmax/playlist.m3u8#http://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8#http://newsmax-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EzEGy3aT4zydHG9xwDJa&channelId=5fb81660b7ad2d002dcb7335&uid=1g09f77gt-09kr-2dg-cuuq-goj68g53vf6/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
-美国_Bloomberg TV,http://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8#http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-美国_Bloomberg HT土耳其,http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+美国_BloombergTV,http://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8#http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+美国_BloombergHT土耳其,http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 美国_复古RetroTV,http://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 美国_Xplore,http://xlpore-samsungus.amagi.tv/playlist.m3u8#http://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3u8#http://xplore-plex.amagi.tv/playlist.m3u8#http://xplore-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=EzEGy3aT4zydHG9xwDJa&channelId=5ff71b7e9298ba002e437eac&uid=1g09f8a2n-i8go-mmg-xt76-yov2gtlfm6b/hls/amagi_hls_data_plexAAAAA-litton-xplore-plex/CDN/playlist.m3u8
-美国_Vevo 2K,http://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cci0vkzzomoo0-prod/26c1e462-824a-4fc9-8a80-764352bf45d4/ee3fcf1d-1183-42c6-97f7-e6e1e3ab856f-samsung-tv/live.m3u8
+美国_Vevo2K,http://d2lzzmzt70lih2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cci0vkzzomoo0-prod/26c1e462-824a-4fc9-8a80-764352bf45d4/ee3fcf1d-1183-42c6-97f7-e6e1e3ab856f-samsung-tv/live.m3u8
 美国_MCN6,http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
-美国_MCN6 Arts Channel,http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
-美国_MCN6 Music Channel,http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
-美国_California Music Channel,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-美国_Can TV,http://canbroadcast.com:7000/canlican/tv.m3u8
+美国_MCN6ArtsChannel,http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
+美国_MCN6MusicChannel,http://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8
+美国_CaliforniaMusicChannel,http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+美国_CanTV,http://canbroadcast.com:7000/canlican/tv.m3u8
 美国_Cocoro,https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8
-美国_ALL Sports,http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/chunklist.m3u8
-美国_Pac 12 Insider,http://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
-美国_World Poker Tour世界扑克巡回赛-1,https://a6d08ba9925348b882686654b1a38165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WorldPokerTour/playlist.m3u8
-美国_World Poker Tour世界扑克巡回赛-2,https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8
+美国_ALLSports,http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/chunklist.m3u8
+美国_Pac12Insider,http://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8
+美国_WorldPokerTour世界扑克巡回赛-1,https://a6d08ba9925348b882686654b1a38165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_WorldPokerTour/playlist.m3u8
+美国_WorldPokerTour世界扑克巡回赛-2,https://a715bb95172a428d8e61e9fe68822ab6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_WorldPokerTour/playlist.m3u8
 俄罗斯,#genre#
 俄罗斯_今日俄罗斯RTNews,http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 俄罗斯_今日俄罗斯西班牙语RTenEspañol,http://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -1013,79 +1013,79 @@ NewTV炫舞未来,http://221.179.217.76:443/PLTV/88888888/224/3221226248/1.m3u8#
 俄罗斯_1+1体育,http://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 英国,#genre#
 英国_Reuters路透社,https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8
-英国_Arise News,http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+英国_AriseNews,http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
 英国_AkaalChannel,http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 英国_EDGESport,http://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-edgesportusa-samsungtv-us/playlist.m3u8#http://edgesport-samsungus.amagi.tv/playlist.m3u8#http://edgesports-plex.amagi.tv/playlist.m3u8#http://edgesports-sportstribal.amagi.tv/playlist.m3u8
 德国,#genre#
 德国之声西班牙语DWEspañol,http://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 德国_公共电视DasErste,http://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8#http://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
-德国_MDF.1,http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+德国_MDF1,http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 德国_PunktUM,http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-德国_Ran 1,http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+德国_Ran1,http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 德国_RBW,http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 德国_RFH,http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-德国_RheinMain TV,http://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/livestream/playlist.m3u8
-德国_OK Dessau德绍,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-德国_OK Magdeburg马格德堡,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-德国_OK Stendal施滕达尔,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-德国_OK Wernigerode韦尼格罗德,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+德国_RheinMainTV,http://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/livestream/playlist.m3u8
+德国_OKDessau德绍,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+德国_OKMagdeburg马格德堡,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+德国_OKStendal施滕达尔,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+德国_OKWernigerode韦尼格罗德,http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
 印度,#genre#
 印度_IndiaToday,http://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 印度_NDTVProfit,http://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
 印度_Anjan,http://f3.vstream.online/bstb/ngrp:anjan_hdall/playlist.m3u8
-印度_B4U Kadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+印度_B4UKadak,http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 印度_9XM,http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 阿联酋,#genre#
-阿联酋_Dubai TV,http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-阿联酋_Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+阿联酋_DubaiTV,http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+阿联酋_DubaiOne,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 阿联酋_WeyyakAction,http://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 阿联酋_WeyyakDrama,http://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 阿联酋_WeyyakMix,http://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 阿联酋_WeyyakNawaem,http://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 阿联酋_ZeeAflam,http://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 阿联酋_ZeeAlwan,http://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-阿联酋_Sharjah TV,http://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
-阿联酋_Sharjah 2,http://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+阿联酋_SharjahTV,http://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+阿联酋_Sharjah2,http://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
 阿尔及利亚,#genre#
-阿尔及利亚_Al24 News,http://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
-阿尔及利亚_BEUR TV,http://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
-阿尔及利亚_Ennahar TV,http://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+阿尔及利亚_Al24News,http://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
+阿尔及利亚_BEURTV,http://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
+阿尔及利亚_EnnaharTV,http://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
 阿尔及利亚_ENTV,http://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
-阿尔及利亚_El Bilad,http://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+阿尔及利亚_ElBilad,http://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
 希腊,#genre#
-希腊_BCI 24 News,http://live.streams.ovh:1935/netmedia/netmedia/playlist.m3u8
+希腊_BCI24News,http://live.streams.ovh:1935/netmedia/netmedia/playlist.m3u8
 希腊_Creta,http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8#http://live.streams.ovh:1935/tvcreta/tvcreta/chunklist.m3u8
 希腊_NG,http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 希腊_Alert,http://itv.streams.ovh:1935/ALEERT/ALEERT/playlist.m3u8
-希腊_Magic TV,http://itv.streams.ovh:1935/magictv/magictv/playlist.m3u8
-希腊_Channel 9,http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+希腊_MagicTV,http://itv.streams.ovh:1935/magictv/magictv/playlist.m3u8
+希腊_Channel9,http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
 土耳其,#genre#
 土耳其无线电视台国际频道TRTWorld,http://tv-trtworld.live.trt.com.tr/master.m3u8
 土耳其_24TV,http://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
 土耳其_360TV,http://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 土耳其_AkitTV,http://akittv-live.ercdn.net/akittv/akittv.m3u8
 土耳其_TV4,http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-土耳其_Berat TV,http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
-土耳其_TV Em,http://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8#http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+土耳其_BeratTV,http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
+土耳其_TVEm,http://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8#http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 土耳其_BRTV,http://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
 土耳其_ErTV,http://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
 土耳其_GRT,http://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
-土耳其_Kanal 12,http://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
-土耳其_Kanal 15,http://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
-土耳其_Kanal 23,http://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
-土耳其_Kanal 26,http://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
-土耳其_Kanal 68,http://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
-土耳其_Life TV,http://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
-土耳其_PowerTürk TV,http://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
-土耳其_Ton TV,http://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+土耳其_Kanal12,http://waw1.artiyerelmedya.net/kanal12/bant1/playlist.m3u8
+土耳其_Kanal15,http://waw2.artiyerelmedya.net/kanal15/bant1/playlist.m3u8
+土耳其_Kanal23,http://waw2.artiyerelmedya.net/kanal23/bant1/playlist.m3u8
+土耳其_Kanal26,http://waw2.artiyerelmedya.net/kanal26/bant1/playlist.m3u8
+土耳其_Kanal68,http://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
+土耳其_LifeTV,http://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
+土耳其_PowerTurkTV,http://waw2.artiyerelmedya.net/powerturktv/bant1/playlist.m3u8
+土耳其_TonTV,http://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
 土耳其_VTV,http://waw2.artiyerelmedya.net/kanalv/bant1/chunks.m3u8
 世界其他,#genre#
 新加坡_亚洲新闻台CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/4c152bfc7ad2463d928bfbec0990eaeb/index_5.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 新加坡_8新闻,http://d1g2ask3suyl38.cloudfront.net/6c2bac1180224a18af0c18125cbe1802/master.m3u8
 卡塔尔_半岛AlJazeera,http://live-hls-aje-ak.getaj.net/AJE/01.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#http://live-hls-web-aje.getaj.net/AJE/02.m3u8
 卡塔尔_QatarTV,http://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
-卡塔尔_Al Rayyan,http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-哥伦比亚_Canal Trece +,http://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
+卡塔尔_AlRayyan,http://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+哥伦比亚_CanalTrece,http://stream.logicideas.media/canaltreceplus-live/smil:live1plus.smil/playlist.m3u8
 埃及_TenTV,http://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 埃及_ElsharqTV,http://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 埃及_MekameleenTV,http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
@@ -1095,53 +1095,53 @@ NewTV炫舞未来,http://221.179.217.76:443/PLTV/88888888/224/3221226248/1.m3u8#
 印尼_TVRIWORLD,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
 印尼_BeritaSatu,http://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 印尼_iNEWS,http://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
-印尼_TV9 Nusantara,http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+印尼_TV9Nusantara,http://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 越南_BRT,http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
 越南_前江TienGiang,http://thtg.vn:8001/thtg.m3u8
 越南_ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 越南_DaNangTV1,http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-柬埔寨_Fresh News,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
+柬埔寨_FreshNews,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 柬埔寨_KhmerTV,http://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 柬埔寨_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 老挝_OyLaoTV,http://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-文莱_RTB Sukmaindera,http://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-马来西亚_astro AWANI,http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-墨西哥_ADN 40,http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+文莱_RTBSukmaindera,http://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+马来西亚_astroAWANI,http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
+墨西哥_ADN40,http://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 墨西哥_TVP,http://5ca3e84a76d30.streamlock.net:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
-黎巴嫩_Al Mayadeen,http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+黎巴嫩_AlMayadeen,http://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 黎巴嫩_NourSAT,http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 库尔德斯坦Kurdistan24,http://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-智利_Canal 74,http://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-智利_Retro Plus 2,http://59f1cbe63db89.streamlock.net:1935/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-阿根廷_Canal 7 Jujuy,https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
-阿根廷_Canal 12,https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
-阿根廷_Canal 26,http://200.115.193.177/live/26hd-720/playlist.m3u8
-巴西_TV Mon,http://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-巴西_TNT Sports 1 Brasil,http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-巴西_TNT Sports 2 Brasil,http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-巴西_TNT Sports 3 Brasil,http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-巴西_TNT Sports 4 Brasil,http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-巴西_TNT Sports 5 Brasil,http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-秘鲁_Canal 8 Catacaos,https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+智利_Canal74,http://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+智利_RetroPlus2,http://59f1cbe63db89.streamlock.net:1935/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+阿根廷_Canal7Jujuy,https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+阿根廷_Canal12,https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+阿根廷_Canal26,http://200.115.193.177/live/26hd-720/playlist.m3u8
+巴西_TVMon,http://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+巴西_TNTSports1Brasil,http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+巴西_TNTSports2Brasil,http://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+巴西_TNTSports3Brasil,http://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+巴西_TNTSports4Brasil,http://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+巴西_TNTSports5Brasil,http://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+秘鲁_Canal8Catacaos,https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
 洪都拉斯_LTV,http://5e85d90130e77.streamlock.net:1935/6022/6022/playlist.m3u8
-洪都拉斯_Canal 9 TeleDanlí,https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
-哥斯达黎加_Canal 8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-多米尼加_DAN TV,http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
-萨尔瓦多_Elim TV,http://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
+洪都拉斯_Canal9TeleDanlí,https://cloud2.streaminglivehd.com:1936/8224/8224/playlist.m3u8
+哥斯达黎加_Canal8,http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+多米尼加_DANTV,http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+萨尔瓦多_ElimTV,http://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/playlist.m3u8
 巴基斯坦_ATV,https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-巴基斯坦_K21 News,https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
-巴基斯坦_AVT Khyber,https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/playlist.m3u8
-巴基斯坦_Awaz TV,https://streamone.simpaisa.com:8443/pitvlive1/awaztv.smil/playlist.m3u8
-巴基斯坦_Khyber News,https://streamone.simpaisa.com:8443/pitvlive1/khybernews.smil/playlist.m3u8
+巴基斯坦_K21News,https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
+巴基斯坦_AVTKhyber,https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/playlist.m3u8
+巴基斯坦_AwazTV,https://streamone.simpaisa.com:8443/pitvlive1/awaztv.smil/playlist.m3u8
+巴基斯坦_KhyberNews,https://streamone.simpaisa.com:8443/pitvlive1/khybernews.smil/playlist.m3u8
 巴基斯坦_OneGolf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-伊拉克_Al Rasheed,http://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-伊拉克_Al Sharqiya News,http://5d94523502c2d.streamlock.net:1935/alsharqiyalive/mystream/chunklist_w449457930.m3u8
-叙利亚Syria TV,http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+伊拉克_AlRasheed,http://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+伊拉克_AlSharqiyaNews,http://5d94523502c2d.streamlock.net:1935/alsharqiyalive/mystream/chunklist_w449457930.m3u8
+叙利亚SyriaTV,http://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 伊朗_Dena,http://cdnw.telewebion.com/dena/live/playlist.m3u8
 塞浦路斯_SAT-7阿拉伯语,http://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
 塞浦路斯_SAT-7波斯语,http://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist_dvr.m3u8#http://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
 塞浦路斯_SAT-7土耳其语,http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist_dvr.m3u8#http://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks_dvr.m3u8
-塞浦路斯_SAT-7 KIDS,http://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+塞浦路斯_SAT-7KIDS,http://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 荷兰_OmroepFlevoland,http://d5ms27yy6exnf.cloudfront.net/live/omroepflevoland/tv/index.m3u8
 荷兰_OmroepWest,http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
 荷兰_UStad,http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
@@ -1149,34 +1149,34 @@ NewTV炫舞未来,http://221.179.217.76:443/PLTV/88888888/224/3221226248/1.m3u8#
 荷兰_L1mburg,http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 荷兰_XITE,http://xite-samsung-de.amagi.tv/playlist.m3u8
 法国_France24英语,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-法国_Clubbing TV,http://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-法国_Trace Urban,http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-法国_Trace Sport Stars,http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+法国_ClubbingTV,http://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+法国_TraceUrban,http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+法国_TraceSportStars,http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 加拿大_TeleQuebec,http://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 加拿大_FightNetwork,http://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 加拿大_CPAC,http://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
-意大利_Canale 7,http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+意大利_Canale7,http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
 意大利_Telenord,http://5db313b643fd8.streamlock.net:1935/Telenord/Telenord/playlist.m3u8
-意大利_Super TV,http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+意大利_SuperTV,http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 挪威_tv2-新闻,http://ws15-hls-live.akamaized.net/out/u/1153546.m3u8
 挪威_tv2-Sport,http://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
 澳大利亚_3TamilTV,http://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-澳大利亚_C31 Melbourne,http://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+澳大利亚_C31Melbourne,http://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 澳大利亚_Channel44,http://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-澳大利亚_Christian Youth Channel,http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+澳大利亚_ChristianYouthChannel,http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
 立陶宛_2TV,http://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 格鲁吉亚_Formula,http://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 奥地利_KTV,http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-瑞典_Di TV,http://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
+瑞典_DiTV,http://httpcache0-03837-cachelive2.dna.qbrick.com/03837-cachelive2/smil:03837_tx4_720p/playlist.m3u8
 爱尔兰国会OireachtasTV,https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
 土库曼斯坦,http://alpha.tv.online.tm/hls/ch007.m3u8
 土库曼斯坦Sport,http://alpha.tv.online.tm/hls/ch004.m3u8
-阿塞拜疆_İDMAN TV,http://109.205.166.68/server124/idman_az/index.m3u8
-圣马力诺_San Marino RTV,http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
-波黑_BN TV,https://dns2.rtvbn.com:8080/live/index.m3u8
-瑞士_Dieu TV,https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
+阿塞拜疆_İDMANTV,http://109.205.166.68/server124/idman_az/index.m3u8
+圣马力诺_SanMarinoRTV,http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+波黑_BNTV,https://dns2.rtvbn.com:8080/live/index.m3u8
+瑞士_DieuTV,https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 葡萄牙_Canal11,http://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-罗马尼亚_Alfa Omega TV,http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+罗马尼亚_AlfaOmegaTV,http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
 LoveNature,http://bamus-eng-roku.amagi.tv/playlist.m3u8
 西班牙_88Stereo,http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 保加利亚_DSTV,http://46.249.95.140:8081/hls/data.m3u8
