@@ -270,9 +270,9 @@ CCTV娱乐,http://171.110.62.231:8181/tsfile/live/1209_1.m3u8
 斗_电影21,http://akm-tct.douyucdn.cn/live/10395986rCRyXVgj.xs#http://epg.112114.xyz/douyu/10395986
 斗_电影22,http://akm-tct.douyucdn.cn/live/10395991rwdhOYwA.xs#http://epg.112114.xyz/douyu/10395991
 斗_电影23,http://akm-tct.douyucdn.cn/live/10329300rjYWemK2.xs#http://epg.112114.xyz/douyu/10329300
-斗_电影24,http://akm-tct.douyucdn.cn/live/2535105rrWvuBQIf.xs#http://epg.112114.xyz/douyu/2535105
+斗_电影24,http://akm-tct.douyucdn.cn/live/2535105rT4irLeMr.xs#http://epg.112114.xyz/douyu/2535105
 斗_电影25,http://akm-tct.douyucdn.cn/live/10395973rsbWwyvC.xs#http://epg.112114.xyz/douyu/10395973
-斗_电影26,http://akm-tct.douyucdn.cn/live/7494871rDY3yDuoB.xs#http://epg.112114.xyz/douyu/7494871
+斗_电影26,http://akm-tct.douyucdn.cn/live/7494871rVpIpaQ9B.xs#http://epg.112114.xyz/douyu/7494871
 斗_电影27,http://akm-tct.douyucdn.cn/live/10395964rQsIweB1.xs#http://epg.112114.xyz/douyu/10395964
 斗_电影28,http://akm-tct.douyucdn.cn/live/10298856rGBM1RcY.xs#http://epg.112114.xyz/douyu/10298856
 斗_电影29,http://akm-tct.douyucdn.cn/live/10395937riV79bNB.xs#http://epg.112114.xyz/douyu/10395937
@@ -297,7 +297,7 @@ CCTV娱乐,http://171.110.62.231:8181/tsfile/live/1209_1.m3u8
 斗_电视剧7,http://akm-tct.douyucdn.cn/live/7459925rLzyH2qb0.xs#http://epg.112114.xyz/douyu/7459925
 斗_电视剧8,http://akm-tct.douyucdn.cn/live/9650836rg5zj7YtN.xs#http://epg.112114.xyz/douyu/9650836
 斗_电视剧9,http://akm-tct.douyucdn.cn/live/7623292rAPkMmdhf.xs#http://epg.112114.xyz/douyu/7623292
-斗_电视剧10,http://akm-tct.douyucdn.cn/live/7476264rKuauGyjN.xs#http://epg.112114.xyz/douyu/7476264
+斗_电视剧10,http://akm-tct.douyucdn.cn/live/7476264rmnnNw4hx.xs#http://epg.112114.xyz/douyu/7476264
 斗_电视剧11,http://akm-tct.douyucdn.cn/live/8595134rQQ7amgQC.xs#http://epg.112114.xyz/douyu/8595134
 斗_电视剧12,http://akm-tct.douyucdn.cn/live/3756989rXSBvYPax.xs#http://epg.112114.xyz/douyu/3756989
 斗_电视剧13,http://akm-tct.douyucdn.cn/live/3627728rhmAyAJJQ.xs#http://epg.112114.xyz/douyu/3627728
@@ -342,9 +342,9 @@ CCTV娱乐,http://171.110.62.231:8181/tsfile/live/1209_1.m3u8
 斗_纪录片,http://akm-tct.douyucdn.cn/live/9661369raLnQxqar.xs#http://epg.112114.xyz/douyu/9661369
 斗_纪录片2,http://akm-tct.douyucdn.cn/live/8834003rS2XAYrS6.xs#http://epg.112114.xyz/douyu/8834003
 斗_动漫,http://akm-tct.douyucdn.cn/live/1174353rVLIfVDNj.xs#http://epg.112114.xyz/douyu/1174353
-斗_60帧音乐,http://akm-tct.douyucdn.cn/live/3870925rucyKLeUT.xs#http://epg.112114.xyz/douyu/3870925
-斗_跳舞,http://akm-tct.douyucdn.cn/live/10308312rPhsWSyT.xs#http://epg.112114.xyz/douyu/10308312
-斗_搞笑视频,http://akm-tct.douyucdn.cn/live/8881729rYtbja1wu.xs#http://epg.112114.xyz/douyu/8881729
+斗_60帧音乐,http://akm-tct.douyucdn.cn/live/3870925rQIO2h9bm.xs#http://epg.112114.xyz/douyu/3870925
+斗_跳舞,http://akm-tct.douyucdn.cn/live/10308312rkjVqAvt.xs#http://epg.112114.xyz/douyu/10308312
+斗_搞笑视频,http://akm-tct.douyucdn.cn/live/8881729r67ZUjRT3.xs#http://epg.112114.xyz/douyu/8881729
 斗_寅子,http://epg.112114.xyz/douyu/71415
 虎牙,#genre#
 铁齿铜牙纪晓岚_虎11342396,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
@@ -649,7 +649,6 @@ YY_雪中悍刀行4,http://mmitv.top/pltv/yy.php?id=1351496216#http://data.3g.yy
 YY_爱就要报复回来,http://mmitv.top/pltv/yy.php?id=1382736865#http://data.3g.yy.com/live/hls/1382736865/1382736865
 YY_降服魔女的手段,http://mmitv.top/pltv/yy.php?id=1354932405#http://data.3g.yy.com/live/hls/1354932405/1354932405
 YY_新白娘子传奇,http://mmitv.top/pltv/yy.php?id=1354490667#http://data.3g.yy.com/live/hls/1354490667/1354490667
-YY_咱们结婚吧,http://mmitv.top/pltv/yy.php?id=1354330319#http://data.3g.yy.com/live/hls/1354330319/1354330319
 YY_血色浪漫,http://mmitv.top/pltv/yy.php?id=33369999#http://data.3g.yy.com/live/hls/33369999/33369999
 YY_隋唐英雄传,http://mmitv.top/pltv/yy.php?id=1352475619#http://data.3g.yy.com/live/hls/1352475619/1352475619
 YY_征服,http://mmitv.top/pltv/yy.php?id=1382764587#http://data.3g.yy.com/live/hls/1382764587/1382764587
@@ -710,7 +709,6 @@ YY_荒野求生,http://mmitv.top/pltv/yy.php?id=1455891197#http://data.3g.yy.com
 YY_荒野求生2,http://mmitv.top/pltv/yy.php?id=1354933535#http://data.3g.yy.com/live/hls/1354933535/1354933535
 哔哩哔哩,#genre#
 哔_铁齿铜牙纪晓岚,http://cn-sdyt-cu-01-15.bilivideo.com/live-bvc/834478/live_40273247_7075894/index.m3u8#http://ye23.win/iptv/bilibili.php?id=6694373
-哔_铁齿铜牙纪晓岚2,http://cn-hbcd-cu-02-06.bilivideo.com/live-bvc/202521/live_3232443_2568220/index.m3u8#http://ye23.win/iptv/bilibili.php?id=572978
 哔_动作片,http://cn-sdyt-cu-01-29.bilivideo.com/live-bvc/928022/live_400392_6822511/index.m3u8#http://ye23.win/iptv/bilibili.php?id=6827037
 哔_林正英_僵尸_女鬼,http://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/520112/live_22989278_9714011/index.m3u8#http://ye23.win/iptv/bilibili.php?id=193
 哔_周星驰_喜剧_动作_僵尸,http://cn-hbcd-cu-02-20.bilivideo.com/live-bvc/725578/live_14659392_8620418/index.m3u8#http://ye23.win/iptv/bilibili.php?id=47917
@@ -721,15 +719,6 @@ YY_荒野求生2,http://mmitv.top/pltv/yy.php?id=1354933535#http://data.3g.yy.co
 哔_新白娘子传奇,http://cn-sdyt-cu-01-26.bilivideo.com/live-bvc/915269/live_234117739_9751143/index.m3u8#http://ye23.win/iptv/bilibili.php?id=5960549
 哔_中华小当家,http://cn-hnly-cu-01-21.bilivideo.com/live-bvc/670572/live_347143_4425426/index.m3u8#http://ye23.win/iptv/bilibili.php?id=655291
 台港澳,#genre#
-有线新闻,http://218.93.208.119:54799/hk/index.php?id=20
-NOW直播,http://218.93.208.119:54799/hk/index.php?id=10
-NOW体育,http://218.93.208.119:54799/hk/index.php?id=19
-TVBS,http://218.93.208.119:54799/tw/index.php?id=15
-中视新闻,http://218.93.208.119:54799/tw/index.php?id=22
-纬来体育,http://218.93.208.119:54799/tw/index.php?id=19
-ELTA体育2,http://218.93.208.119:54799/tw/index.php?id=5
-ELTA体育3,http://218.93.208.119:54799/tw/index.php?id=6
-有线新闻台,http://zb.8d8q.com/proxy/gangtai.php?tid=gt&id=24
 ELEVEN2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 人间卫视,http://5ddce30eb4b55.streamlock.net:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#http://5ddce30eb4b55.streamlock.net:1935/bltvhd/bltv1/chunklist_w511254805.m3u8
 原住民电视,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8#http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
