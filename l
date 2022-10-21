@@ -186,14 +186,14 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 艺_科学探索,http://aliyuncoceast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
 艺_自然地理,http://aliyuncoceast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8
 斗鱼,#genre#
-斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390rP72wXtbA.xs#http://epg.112114.xyz/douyu/2436390
+斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390rRYysZbBI.xs#http://epg.112114.xyz/douyu/2436390
 斗_铁齿铜牙纪晓岚,http://ws-tct.douyucdn.cn/live/9071554rmZUDXmCR.xs#http://epg.112114.xyz/douyu/9071554
 斗_雍正王朝,http://ws-tct.douyucdn.cn/live/4944033rAklsCI1U.xs#http://epg.112114.xyz/douyu/4944033
 斗_庆余年,http://ws-tct.douyucdn.cn/live/7489563rOH82I3TR.xs#http://epg.112114.xyz/douyu/7489563
 斗_庆余年2,http://ws-tct.douyucdn.cn/live/5908256rQhC5RYx4.xs#http://epg.112114.xyz/douyu/5908256
 斗_60帧科幻_动作_喜剧,http://ws-tct.douyucdn.cn/live/323876rpFaccVdDN.xs#http://epg.112114.xyz/douyu/323876
 斗_60帧恐怖_搞笑,http://ws-tct.douyucdn.cn/live/74374rxBWPJfW7Gd.xs#http://epg.112114.xyz/douyu/74374
-斗_60帧电影,http://ws-tct.douyucdn.cn/live/1274132rJwLvdc0N.xs#http://epg.112114.xyz/douyu/1274132
+斗_60帧电影,http://ws-tct.douyucdn.cn/live/1274132rkKkkuoKk.xs#http://epg.112114.xyz/douyu/1274132
 斗_华语电影,http://ws-tct.douyucdn.cn/live/3928r9p0BHMDG.xs#http://epg.112114.xyz/douyu/3928
 斗_华语电影2,http://ws-tct.douyucdn.cn/live/122402rK7MO9bXSq.xs#http://epg.112114.xyz/douyu/122402
 斗_华语电影3,http://ws-tct.douyucdn.cn/live/85894rmovieChow.xs#http://epg.112114.xyz/douyu/85894
@@ -233,7 +233,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_电影21,http://ws-tct.douyucdn.cn/live/10395986r3Sg5DwL.xs#http://epg.112114.xyz/douyu/10395986
 斗_电影22,http://ws-tct.douyucdn.cn/live/10395991r3ByBjcG.xs#http://epg.112114.xyz/douyu/10395991
 斗_电影23,http://ws-tct.douyucdn.cn/live/10329300rjYWemK2.xs#http://epg.112114.xyz/douyu/10329300
-斗_电影24,http://ws-tct.douyucdn.cn/live/2535105r26IacECT.xs#http://epg.112114.xyz/douyu/2535105
+斗_电影24,http://ws-tct.douyucdn.cn/live/2535105rjcQ3g7wW.xs#http://epg.112114.xyz/douyu/2535105
 斗_电影25,http://ws-tct.douyucdn.cn/live/10395973r6oANv3m.xs#http://epg.112114.xyz/douyu/10395973
 斗_电影26,http://ws-tct.douyucdn.cn/live/7494871rVpIpaQ9B.xs#http://epg.112114.xyz/douyu/7494871
 斗_哈利波特,http://ws-tct.douyucdn.cn/live/8814650r6AHTmoUR.xs#http://epg.112114.xyz/douyu/8814650
@@ -272,7 +272,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_鬼吹灯系列,http://ws-tct.douyucdn.cn/live/9292503rhyajP289.xs#http://epg.112114.xyz/douyu/9292503
 斗_手机,http://ws-tct.douyucdn.cn/live/8507023rI1zufNt3.xs#http://epg.112114.xyz/douyu/8507023
 斗_征服,http://ws-tct.douyucdn.cn/live/2726977r96bwcYt1.xs#http://epg.112114.xyz/douyu/2726977
-斗_大汉天子,http://ws-tct.douyucdn.cn/live/7133423rk459r39W.xs#http://epg.112114.xyz/douyu/7133423
+斗_大汉天子,http://ws-tct.douyucdn.cn/live/7133423rRqRPTIvv.xs#http://epg.112114.xyz/douyu/7133423
 斗_隋唐演义,http://ws-tct.douyucdn.cn/live/7552568rzUEOkUJL.xs#http://epg.112114.xyz/douyu/7552568
 斗_大秦帝国,http://ws-tct.douyucdn.cn/live/6582435rviurw5xL.xs#http://epg.112114.xyz/douyu/6582435
 斗_大秦帝国2,http://ws-tct.douyucdn.cn/live/1584198rsh36MiKb.xs#http://epg.112114.xyz/douyu/1584198
@@ -293,7 +293,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_粤语电影,http://ws-tct.douyucdn.cn/live/5033502rNOtYDGbW.xs#http://epg.112114.xyz/douyu/5033502
 斗_粤语电影2,http://ws-tct.douyucdn.cn/live/6566671rF26QDpD5.xs#http://epg.112114.xyz/douyu/6566671
 斗_粤语港剧,http://ws-tct.douyucdn.cn/live/10338873rKiJyAFG.xs#http://epg.112114.xyz/douyu/10338873
-斗_纪录片,http://ws-tct.douyucdn.cn/live/9661369rEhiK2Cj9.xs#http://epg.112114.xyz/douyu/9661369
+斗_纪录片,http://ws-tct.douyucdn.cn/live/9661369rFp8yDyCu.xs#http://epg.112114.xyz/douyu/9661369
 斗_纪录片2,http://ws-tct.douyucdn.cn/live/8834003rS2XAYrS6.xs#http://epg.112114.xyz/douyu/8834003
 斗_纪录片3,http://ws-tct.douyucdn.cn/live/9439712rJTMM0saB.xs#http://epg.112114.xyz/douyu/9439712
 斗_60帧音乐,http://ws-tct.douyucdn.cn/live/3870925r3SgbNSY1.xs#http://epg.112114.xyz/douyu/3870925
@@ -1071,7 +1071,7 @@ NewTV炫舞未来,http://111.13.42.235/PLTV/88888888/224/3221226248/1.m3u8#http:
 荷兰_InsightTV,http://insighttv-vizio.amagi.tv/playlist.m3u8
 荷兰_L1mburg,http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
 荷兰_XITE,http://xite-samsung-de.amagi.tv/playlist.m3u8
-法国_France24英语,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+法国_France24英语,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1#http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8#http://190.83.119.67:8000/play/a0pu/index.m3u8
 法国_ClubbingTV,http://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 法国_TraceUrban,http://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 法国_TraceSportStars,http://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
