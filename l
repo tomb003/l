@@ -187,7 +187,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 艺_科学探索,http://aliyuncoceast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
 艺_自然地理,http://aliyuncoceast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8
 斗鱼,#genre#
-斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390rPx7BhBGs.xs#http://epg.112114.xyz/douyu/2436390
+斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390r8XhVOf7p.xs#http://epg.112114.xyz/douyu/2436390
 斗_铁齿铜牙纪晓岚,http://ws-tct.douyucdn.cn/live/9071554rmZUDXmCR.xs#http://epg.112114.xyz/douyu/9071554
 斗_雍正王朝,http://ws-tct.douyucdn.cn/live/4944033rAklsCI1U.xs#http://epg.112114.xyz/douyu/4944033
 斗_庆余年,http://ws-tct.douyucdn.cn/live/7489563rOH82I3TR.xs#http://epg.112114.xyz/douyu/7489563
@@ -198,7 +198,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_华语电影,http://ws-tct.douyucdn.cn/live/3928r9p0BHMDG.xs#http://epg.112114.xyz/douyu/3928
 斗_华语电影2,http://ws-tct.douyucdn.cn/live/122402rK7MO9bXSq.xs#http://epg.112114.xyz/douyu/122402
 斗_华语电影3,http://ws-tct.douyucdn.cn/live/85894rmovieChow.xs#http://epg.112114.xyz/douyu/85894
-斗_科幻_动作_灾难_巨兽,http://ws-tct.douyucdn.cn/live/252802rLTO4UHhuv.xs#http://epg.112114.xyz/douyu/252802
+斗_科幻_动作_灾难_巨兽,http://ws-tct.douyucdn.cn/live/252802rbqsE91JxO.xs#http://epg.112114.xyz/douyu/252802
 斗_欧美科幻,http://ws-tct.douyucdn.cn/live/20415rnWbjg6Ex1K.xs#http://epg.112114.xyz/douyu/20415
 斗_豆瓣高分,http://ws-tct.douyucdn.cn/live/8770422rFy6qkbXj.xs#http://epg.112114.xyz/douyu/8770422
 斗_恐怖_鬼怪,http://ws-tct.douyucdn.cn/live/1165374rx6Xc2LUz.xs#http://epg.112114.xyz/douyu/1165374
@@ -207,7 +207,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_鬼片_恐怖_惊悚,http://ws-tct.douyucdn.cn/live/2935323r92kdaBp0.xs#http://epg.112114.xyz/douyu/2935323
 斗_僵尸_女鬼,http://ws-tct.douyucdn.cn/live/218859rvxRTAhGUc.xs#http://epg.112114.xyz/douyu/218859
 斗_007系列,http://ws-tct.douyucdn.cn/live/9292499rqCGYuvDh.xs#http://epg.112114.xyz/douyu/9292499
-斗_漫威主线剧情最佳观影顺序,http://ws-tct.douyucdn.cn/live/6140589rNwbTJtus.xs#http://epg.112114.xyz/douyu/6140589
+斗_漫威主线剧情最佳观影顺序,http://ws-tct.douyucdn.cn/live/6140589rMX1EqgyZ.xs#http://epg.112114.xyz/douyu/6140589
 斗_X战警,http://ws-tct.douyucdn.cn/live/9651304rmDDb9s2C.xs#http://epg.112114.xyz/douyu/9651304
 斗_刘德华,http://ws-tct.douyucdn.cn/live/2516864rOeHnTJVU.xs#http://epg.112114.xyz/douyu/2516864
 斗_邵氏_武侠_动作_老电影,http://ws-tct.douyucdn.cn/live/4246519rBDNfgQ00.xs#http://epg.112114.xyz/douyu/4246519
@@ -234,7 +234,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_电影21,http://ws-tct.douyucdn.cn/live/10395986r3Sg5DwL.xs#http://epg.112114.xyz/douyu/10395986
 斗_电影22,http://ws-tct.douyucdn.cn/live/10395991r3ByBjcG.xs#http://epg.112114.xyz/douyu/10395991
 斗_电影23,http://ws-tct.douyucdn.cn/live/10329300rjYWemK2.xs#http://epg.112114.xyz/douyu/10329300
-斗_电影24,http://ws-tct.douyucdn.cn/live/2535105rpUR18d2n.xs#http://epg.112114.xyz/douyu/2535105
+斗_电影24,http://ws-tct.douyucdn.cn/live/2535105rqI0LNClY.xs#http://epg.112114.xyz/douyu/2535105
 斗_电影25,http://ws-tct.douyucdn.cn/live/10395973r6oANv3m.xs#http://epg.112114.xyz/douyu/10395973
 斗_电影26,http://ws-tct.douyucdn.cn/live/7494871rVpIpaQ9B.xs#http://epg.112114.xyz/douyu/7494871
 斗_哈利波特,http://ws-tct.douyucdn.cn/live/8814650r6AHTmoUR.xs#http://epg.112114.xyz/douyu/8814650
@@ -249,7 +249,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_金庸_武侠_古装,http://ws-tct.douyucdn.cn/live/338759rS86bOO8Ur.xs#http://epg.112114.xyz/douyu/338759
 斗_电视剧,http://ws-tct.douyucdn.cn/live/4373285rp7ogqqh6.xs#http://epg.112114.xyz/douyu/4373285
 斗_电视剧2,http://ws-tct.douyucdn.cn/live/9388938rl1H5g4CO.xs#http://epg.112114.xyz/douyu/9388938
-斗_电视剧3,http://ws-tct.douyucdn.cn/live/6566658rjCp0OsZo.xs#http://epg.112114.xyz/douyu/6566658
+斗_电视剧3,http://ws-tct.douyucdn.cn/live/6566658rv3XYBvmq.xs#http://epg.112114.xyz/douyu/6566658
 斗_电视剧4,http://ws-tct.douyucdn.cn/live/6369954ry9FbY7Ge.xs#http://epg.112114.xyz/douyu/6369954
 斗_电视剧5,http://ws-tct.douyucdn.cn/live/9650792rzzA8AMxf.xs#http://epg.112114.xyz/douyu/9650792
 斗_电视剧6,http://ws-tct.douyucdn.cn/live/6712083r45jxpCoC.xs#http://epg.112114.xyz/douyu/6712083
@@ -291,12 +291,12 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_闯关东,http://ws-tct.douyucdn.cn/live/8787737r5vUIA6sX.xs#http://epg.112114.xyz/douyu/8787737
 斗_相声小品陈佩斯喜剧,http://ws-tct.douyucdn.cn/live/9286868raKt5z1MQ.xs#http://epg.112114.xyz/douyu/9286868
 斗_粤语电影,http://ws-tct.douyucdn.cn/live/5033502rNOtYDGbW.xs#http://epg.112114.xyz/douyu/5033502
-斗_粤语电影2,http://ws-tct.douyucdn.cn/live/6566671rF26QDpD5.xs#http://epg.112114.xyz/douyu/6566671
+斗_粤语电影2,http://ws-tct.douyucdn.cn/live/6566671r17693SDr.xs#http://epg.112114.xyz/douyu/6566671
 斗_粤语港剧,http://ws-tct.douyucdn.cn/live/10338873rKiJyAFG.xs#http://epg.112114.xyz/douyu/10338873
 斗_纪录片,http://ws-tct.douyucdn.cn/live/9661369rFp8yDyCu.xs#http://epg.112114.xyz/douyu/9661369
 斗_纪录片2,http://ws-tct.douyucdn.cn/live/8834003rS2XAYrS6.xs#http://epg.112114.xyz/douyu/8834003
 斗_纪录片3,http://ws-tct.douyucdn.cn/live/9439712ruuPmqI2K.xs#http://epg.112114.xyz/douyu/9439712
-斗_60帧音乐,http://ws-tct.douyucdn.cn/live/3870925r3SgbNSY1.xs#http://epg.112114.xyz/douyu/3870925
+斗_60帧音乐,http://ws-tct.douyucdn.cn/live/3870925rkQiHeHKm.xs#http://epg.112114.xyz/douyu/3870925
 斗_跳舞,http://ws-tct.douyucdn.cn/live/10308312rkjVqAvt.xs#http://epg.112114.xyz/douyu/10308312
 斗_搞笑视频,http://ws-tct.douyucdn.cn/live/8881729r67ZUjRT3.xs#http://epg.112114.xyz/douyu/8881729
 斗_寅子,http://epg.112114.xyz/douyu/71415
@@ -643,9 +643,8 @@ YY_动物世界,http://mmitv.top/pltv/yy.php?id=1382749889#http://data.3g.yy.com
 YY_荒野求生,http://mmitv.top/pltv/yy.php?id=1455891197#http://data.3g.yy.com/live/hls/1455891197/1455891197
 YY_荒野求生2,http://mmitv.top/pltv/yy.php?id=1354933535#http://data.3g.yy.com/live/hls/1354933535/1354933535
 哔哩哔哩,#genre#
-哔_铁齿铜牙纪晓岚,http://cn-sdyt-cu-01-15.bilivideo.com/live-bvc/834478/live_40273247_7075894/index.m3u8#http://zzy789.xyz/bili.php?id=6694373
+哔_铁齿铜牙纪晓岚,http://cn-hbcd-cu-02-11.bilivideo.com/live-bvc/519977/live_40273247_7075894_bluray/index.m3u8#http://zzy789.xyz/bili.php?id=6694373
 哔_林正英_僵尸_女鬼,http://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/520112/live_22989278_9714011/index.m3u8#http://zzy789.xyz/bili.php?id=193
-哔_周星驰_喜剧_动作_僵尸,http://cn-hbcd-cu-02-20.bilivideo.com/live-bvc/725578/live_14659392_8620418/index.m3u8#http://zzy789.xyz/bili.php?id=47917
 哔_电影,http://cn-bj-se-bcache-07.bilivideo.com/live-bvc/980410/live_334056_8894439/index.m3u8#http://zzy789.xyz/bili.php?id=127343
 哔_电影2,http://cn-sdyt-cu-01-19.bilivideo.com/live-bvc/431600/live_25999342_7533504/index.m3u8#http://zzy789.xyz/bili.php?id=82997
 哔_电影3,http://cn-sdyt-cu-01-27.bilivideo.com/live-bvc/592434/live_252582133_1552126/index.m3u8#http://zzy789.xyz/bili.php?id=6837959
@@ -759,7 +758,7 @@ CETV早期教育,http://yfsl.vsd.gehua.net.cn/live/ZaoQiJiaoYuHD.m3u8
 四川卫视,http://gslbserv.itv.cmvideo.cn/5000000004000006119/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=no#http://39.134.67.108/PLTV/88888888/224/3221225970/index.m3u8#http://yfsl.vsd.gehua.net.cn/live/SiChuanHD.m3u8#http://111.13.42.230/PLTV/88888888/224/3221226407/1.m3u8#http://111.13.42.236/PLTV/88888888/224/3221226995/1.m3u8#http://111.12.110.40:6610/PLTV/77777777/224/3221225757/index.m3u8?#http://117.169.124.142:8080/live/sichuanstv/index.m3u8#http://111.40.196.28/PLTV/88888888/224/3221225562/index.m3u8#http://219.142.151.179:9901/tsfile/live/0123_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1064_1.m3u8#http://42.49.129.136:808/hls/32/index.m3u8#http://112.19.214.90:8883/tsfile/live/0123_1.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1062_1.m3u8#http://223.151.51.27:85/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.84.96.71:808/hls/165/index.m3u8
 山东卫视,http://111.20.105.144:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.145:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.33.79/PLTV/88888893/224/3221226209/index.m3u8#http://111.20.33.77/PLTV/88888893/224/3221226209/index.m3u8#http://111.13.42.234/PLTV/88888888/224/3221226501/1.m3u8#http://gslbserv.itv.cmvideo.cn/1000000001000016568/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=no#http://gslbserv.itv.cmvideo.cn/6000000001000004134/index.m3u8?channel-id=wasusyt&Contentid=6000000001000004134&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225949/index.m3u8?#http://117.169.124.142:8080/live/HD-8000k-1080P-shandongstv/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225952/index.m3u8#http://yfsl.vsd.gehua.net.cn/live/ShanDongHD.m3u8#http://219.142.151.179:9901/tsfile/live/0131_1.m3u8#http://125.40.191.58:9901/tsfile/live/0131_1.m3u8#http://112.19.214.90:8883/tsfile/live/0131_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1058_1.m3u8#http://120.84.96.71:808/hls/132/index.m3u8
 山东教育卫视,http://111.13.42.230/PLTV/88888888/224/3221227022/1.m3u8#http://gslbserv.itv.cmvideo.cn/1000000002000004097/index.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225708/index.m3u8?#http://117.169.124.142:8080/live/shandongjy/index.m3u8#http://111.20.105.150:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.151:6610/yinhe/2/ch00000090990000001317/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.33.103/PLTV/88888893/224/3221226238/index.m3u8#http://111.20.33.104/PLTV/88888893/224/3221226238/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1183_1.m3u8
-山西卫视,http://111.13.42.236/PLTV/88888888/224/3221227016/1.m3u8#http://gslbserv.itv.cmvideo.cn/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=no#http://gslbserv.itv.cmvideo.cn/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225785/index.m3u8?#http://117.169.124.142:8080/live/shanxistv/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226009/index.m3u8#http://yfsl.vsd.gehua.net.cn/live/ShanXiHD.m3u8#http://111.20.105.150:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.151:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.21.23.30/PLTV/88888888/224/3221225763/index.m3u8#http://111.40.196.36/PLTV/88888888/224/3221225649/index.m3u8#http://219.142.151.179:9901/tsfile/live/0118_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1089_1.m3u8#http://42.49.129.136:808/hls/41/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1124_1.m3u8#http://223.151.51.27:85/tsfile/live/0118_2.m3u8?key=txiptv&playlive=1&authid=0#http://120.84.96.71:808/hls/138/index.m3u8
+山西卫视,http://111.13.42.236/PLTV/88888888/224/3221227016/1.m3u8#http://gslbserv.itv.cmvideo.cn/5000000006000040023/index.m3u8?channel-id=bestzb&Contentid=5000000006000040023&livemode=1&stbId=no#http://gslbserv.itv.cmvideo.cn/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225785/index.m3u8?#http://117.169.124.142:8080/live/shanxistv/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221226009/index.m3u8#http://liveflash.sxrtv.com/live/sxwshd.flv?bitrate=800000&channel=Shan1XiTV#http://yfsl.vsd.gehua.net.cn/live/ShanXiHD.m3u8#http://111.20.105.150:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.151:6610/yinhe/2/ch00000090990000001038/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.21.23.30/PLTV/88888888/224/3221225763/index.m3u8#http://111.40.196.36/PLTV/88888888/224/3221225649/index.m3u8#http://219.142.151.179:9901/tsfile/live/0118_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1089_1.m3u8#http://42.49.129.136:808/hls/41/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1124_1.m3u8#http://223.151.51.27:85/tsfile/live/0118_2.m3u8?key=txiptv&playlive=1&authid=0#http://120.84.96.71:808/hls/138/index.m3u8
 陕西卫视,http://yfsl.vsd.gehua.net.cn/live/ShanXiHD2.m3u8#http://111.13.42.230/PLTV/88888888/224/3221226411/1.m3u8#http://111.13.42.232/PLTV/88888888/224/3221226999/1.m3u8#http://gslbserv.itv.cmvideo.cn/5000000006000040017/index.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=no#http://gslbserv.itv.cmvideo.cn/1000000002000007495/index.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225754/index.m3u8?#http://117.169.124.142:8080/live/shanxi1stv/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225989/index.m3u8#http://111.20.105.144:6610/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.145:6610/yinhe/2/ch00000090990000001539/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.33.103/PLTV/88888893/224/3221226920/index.m3u8#http://111.20.33.104/PLTV/88888893/224/3221226920/index.m3u8#http://111.40.196.34/PLTV/88888888/224/3221225582/index.m3u8#http://219.142.151.179:9901/tsfile/live/0136_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1088_1.m3u8#http://42.49.129.136:808/hls/40/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1125_1.m3u8#http://223.151.51.27:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.84.96.71:808/hls/137/index.m3u8
 陕西农林卫视,http://111.20.105.153:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.150:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.33.79/PLTV/88888893/224/3221226229/index.m3u8#http://111.20.33.77/PLTV/88888893/224/3221226229/index.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1181_1.m3u8
 深圳卫视,http://111.20.105.153:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.150:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.33.105/PLTV/88888893/224/3221226205/index.m3u8#http://111.20.33.106/PLTV/88888893/224/3221226205/index.m3u8#http://111.13.42.230/PLTV/88888888/224/3221226495/1.m3u8#http://gslbserv.itv.cmvideo.cn/5000000004000007410/index.m3u8?channel-id=bestzb&Contentid=5000000004000007410&livemode=1&stbId=no#http://gslbserv.itv.cmvideo.cn/1000000001000009227/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=no#http://111.12.110.40:6610/PLTV/77777777/224/3221225943/index.m3u8?#http://117.169.124.142:8080/live/HD-8000k-1080P-shenzhenstv/index.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225943/index.m3u8#http://yfsl.vsd.gehua.net.cn/live/ShenZhenHD.m3u8#http://219.142.151.179:9901/tsfile/live/0126_1.m3u8#http://fyld.eatuo.com:9901/tsfile/live/1060_1.m3u8#http://112.19.214.90:8883/tsfile/live/0126_1.m3u8#http://lcx-olt.8866.org:8181/tsfile/live/1044_1.m3u8#http://223.151.51.27:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.84.96.71:808/hls/125/index.m3u8
@@ -986,7 +985,6 @@ NewTV金牌综艺,http://111.13.42.233/PLTV/88888888/224/3221227004/1.m3u8#http:
 希腊_Creta,http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8#http://live.streams.ovh:1935/tvcreta/tvcreta/chunklist.m3u8
 希腊_NG,http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 希腊_Alert,http://itv.streams.ovh:1935/ALEERT/ALEERT/playlist.m3u8
-希腊_MagicTV,http://itv.streams.ovh:1935/magictv/magictv/playlist.m3u8
 土耳其,#genre#
 土耳其无线电视台国际频道TRTWorld,http://tv-trtworld.live.trt.com.tr/master.m3u8
 土耳其_24TV,http://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
