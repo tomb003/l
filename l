@@ -197,7 +197,7 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_华语电影,http://ws-tct.douyucdn.cn/live/3928r9p0BHMDG.xs#http://epg.112114.xyz/douyu/3928
 斗_华语电影2,http://ws-tct.douyucdn.cn/live/122402rK7MO9bXSq.xs#http://epg.112114.xyz/douyu/122402
 斗_华语电影3,http://ws-tct.douyucdn.cn/live/85894rmovieChow.xs#http://epg.112114.xyz/douyu/85894
-斗_科幻_动作_灾难_巨兽,http://ws-tct.douyucdn.cn/live/252802rbqsE91JxO.xs#http://epg.112114.xyz/douyu/252802
+斗_科幻_动作_灾难_巨兽,http://ws-tct.douyucdn.cn/live/252802rePlzhjEpl.xs#http://epg.112114.xyz/douyu/252802
 斗_欧美科幻,http://ws-tct.douyucdn.cn/live/20415rnWbjg6Ex1K.xs#http://epg.112114.xyz/douyu/20415
 斗_豆瓣高分,http://ws-tct.douyucdn.cn/live/8770422r9uCXctpy.xs#http://epg.112114.xyz/douyu/8770422
 斗_恐怖_鬼怪,http://ws-tct.douyucdn.cn/live/1165374rx6Xc2LUz.xs#http://epg.112114.xyz/douyu/1165374
@@ -295,8 +295,8 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 斗_纪录片2,http://ws-tct.douyucdn.cn/live/8834003rKQnW4KlL.xs#http://epg.112114.xyz/douyu/8834003
 斗_纪录片3,http://ws-tct.douyucdn.cn/live/9439712r10xDJ6qt.xs#http://epg.112114.xyz/douyu/9439712
 斗_60帧音乐,http://ws-tct.douyucdn.cn/live/3870925rNn2iflxg.xs#http://epg.112114.xyz/douyu/3870925
-斗_跳舞,http://ws-tct.douyucdn.cn/live/10308312rkjVqAvt.xs#http://epg.112114.xyz/douyu/10308312
-斗_搞笑视频,http://ws-tct.douyucdn.cn/live/8881729r67ZUjRT3.xs#http://epg.112114.xyz/douyu/8881729
+斗_跳舞,http://ws-tct.douyucdn.cn/live/10308312rupBSv2f.xs#http://epg.112114.xyz/douyu/10308312
+斗_搞笑视频,http://ws-tct.douyucdn.cn/live/8881729rhLJl0hsz.xs#http://epg.112114.xyz/douyu/8881729
 斗_寅子,http://epg.112114.xyz/douyu/71415
 虎牙,#genre#
 铁齿铜牙纪晓岚_虎11342396,http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
@@ -527,6 +527,7 @@ YY_电影14,http://mmitv.top/pltv/yy.php?id=1355065896#http://data.3g.yy.com/liv
 YY_电影15,http://mmitv.top/pltv/yy.php?id=1382735585#http://data.3g.yy.com/live/hls/1382735585/1382735585
 YY_电影16,http://mmitv.top/pltv/yy.php?id=1354889044#http://data.3g.yy.com/live/hls/1354889044/1354889044
 YY_电影17,http://mmitv.top/pltv/yy.php?id=1351496216#http://data.3g.yy.com/live/hls/1351496216/1351496216
+YY_电影18,http://mmitv.top/pltv/yy.php?id=1355268573#http://data.3g.yy.com/live/hls/1355268573/1355268573
 YY_超级英雄电影,http://mmitv.top/pltv/yy.php?id=1382745091#http://data.3g.yy.com/live/hls/1382745091/1382745091
 YY_漫威,http://mmitv.top/pltv/yy.php?id=1354930233#http://data.3g.yy.com/live/hls/1354930233/1354930233
 YY_毒液,http://mmitv.top/pltv/yy.php?id=1382745095#http://data.3g.yy.com/live/hls/1382745095/1382745095
@@ -609,9 +610,7 @@ YY_我是特种兵4,http://mmitv.top/pltv/yy.php?id=1354752072#http://data.3g.yy
 YY_我是特种兵5,http://mmitv.top/pltv/yy.php?id=38818227#http://data.3g.yy.com/live/hls/38818227/38818227
 YY_我是特种兵6,http://mmitv.top/pltv/yy.php?id=1354784284#http://data.3g.yy.com/live/hls/1354784284/1354784284
 YY_神探狄仁杰,http://mmitv.top/pltv/yy.php?id=1351755386#http://data.3g.yy.com/live/hls/1351755386/1351755386
-YY_封神榜,http://mmitv.top/pltv/yy.php?id=1352227227#http://data.3g.yy.com/live/hls/1352227227/1352227227
-YY_封神榜2,http://mmitv.top/pltv/yy.php?id=29460894#http://data.3g.yy.com/live/hls/29460894/29460894
-YY_封神榜3,http://mmitv.top/pltv/yy.php?id=1355268573#http://data.3g.yy.com/live/hls/1355268573/1355268573
+YY_封神榜,http://mmitv.top/pltv/yy.php?id=29460894#http://data.3g.yy.com/live/hls/29460894/29460894
 YY_燕双鹰,http://mmitv.top/pltv/yy.php?id=1354143942#http://data.3g.yy.com/live/hls/1354143942/1354143942
 YY_燕双鹰2,http://mmitv.top/pltv/yy.php?id=1352227153#http://data.3g.yy.com/live/hls/1352227153/1352227153
 YY_丁大命,http://mmitv.top/pltv/yy.php?id=1382735579#http://data.3g.yy.com/live/hls/1382735579/1382735579
