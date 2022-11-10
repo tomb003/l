@@ -198,8 +198,8 @@ IPTV8+,http://111.20.105.147:6610/yinhe/2/ch00000090990000001583/index.m3u8?virt
 艺_科学探索,http://aliyuncoceast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c51_lb_108_720P_t10/c51_lb_108_720P_t10.m3u8
 艺_自然地理,http://aliyuncoceast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8#http://aliyuncocnortheast.inter.iqiyi.com/tslive/c52_lb_81_600_t10/c52_lb_81_600_t10.m3u8
 斗鱼,#genre#
-斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390rgyzhAP6W.xs#http://epg.112114.xyz/douyu/2436390
-斗_铁齿铜牙纪晓岚,http://ws-tct.douyucdn.cn/live/9071554rmZUDXmCR.xs#http://epg.112114.xyz/douyu/9071554
+斗_译制国语,http://ws-tct.douyucdn.cn/live/2436390rgyzhAP6W.xs#http://epg.112114.xyz/douyu/2436390#http://localhost:8080/douyu.php?id=2436390
+斗_铁齿铜牙纪晓岚,http://ws-tct.douyucdn.cn/live/9071554rmZUDXmCR.xs#http://epg.112114.xyz/douyu/9071554#http://localhost:8080/douyu.php?id=9071554
 斗_雍正王朝,http://ws-tct.douyucdn.cn/live/4944033rAklsCI1U.xs#http://epg.112114.xyz/douyu/4944033
 斗_庆余年,http://ws-tct.douyucdn.cn/live/7489563rGK6JoIO6.xs#http://epg.112114.xyz/douyu/7489563
 斗_庆余年2,http://ws-tct.douyucdn.cn/live/5908256rQhC5RYx4.xs#http://epg.112114.xyz/douyu/5908256
