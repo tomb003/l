@@ -740,6 +740,7 @@ CETV早期教育,http://yfsl.vsd.gehua.net.cn/live/ZaoQiJiaoYuHD.m3u8
 北京体育休闲,http://yfsl.vsd.gehua.net.cn/live/BTVjishiHD.m3u8#http://111.20.105.162:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.20.105.163:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com#http://111.62.144.18/pull.brtvcloud.com/brtv8kapptv/brtv8kapp4ktiyu.m3u8
 北京文艺,http://111.13.42.231/PLTV/88888888/224/3221226440/1.m3u8#http://111.62.144.18/pull.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8#http://219.142.147.211:9901/tsfile/live/1001_1.m3u8
 北京国际,http://111.13.42.241/PLTV/88888888/224/3221226510/1.m3u8
+大兴,http://localhost:8080/BJDaXing.php
 石景山,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 房山无线,http://live.funhillrm.com/2/sd/live.m3u8
 房山有线,http://live.funhillrm.com/5/sd/live.m3u8
